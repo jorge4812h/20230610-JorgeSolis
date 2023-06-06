@@ -1,0 +1,30 @@
+  567  mkdir 20230610-JorgeSolis
+  568  cd 20230610-JorgeSolis/
+  569  git init
+  570  git remote add origin git@github.com:jorge4812h/20230610-JorgeSolis.git
+  571  git branch -M main
+  572  touch comandos.txt main.js index.html
+  573  git status
+  574  git add .
+  575  git commit -m "commit 01 de JorgeSolis"
+  576  git push origin main
+  577  git checkout -b feature01
+  578  mkdir Terminal Hardware
+  579  touch Terminal/resumen.txt Hardware/resumen.txt
+  580  ls -R
+  581  git add .
+  582  git commit -m "commit 02 de JorgeSolis"
+  583  git push origin feature01
+  584  git checkout -b feature02
+  585  code Terminal/resumen.txt
+  586  code Hardware/resumen.txt
+  587  git status
+  588  git add .
+  589  git commit -m "commit 03 de JorgeSolis"
+  590  git push origin feature02
+  591  git checkout main
+  592  ls
+  593  mv comandos.txt comandosUtilizados.txt
+  594  code comandosUtilizados.txt
+  595  history
+    
