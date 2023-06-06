@@ -1,0 +1,5 @@
+Comando 1 - pwd
+Comando 2 - git checkout -b "nombre de rama"
+Comando 3 - git log
+Comando 4 - history
+Comando 5 - git commit -m "nombre de commit"

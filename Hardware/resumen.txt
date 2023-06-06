@@ -1,0 +1,5 @@
+Partes interna de una computadora:
+1.- Placa madre (Motherboard)
+2.- Memoria Ram.
+3.- Memoria ROM.
+4.- Procesador.
